@@ -2,7 +2,7 @@
 
 Welcome to the **Social Recommendation Engine** project! This is a full-stack application designed to provide personalized content recommendations using state-of-the-art vector search and Large Language Models (LLMs).
 
-**🔗 [Live Demo](https://your-demo-link-here.com)**
+**🔗 [Live Demo](https://www.linkedin.com/posts/abid-karim123_ai-artificialintelligence-machinelearning-ugcPost-7474387685588082689-S2B4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE38664BltUeoq9Hr3pZ8WzH7AV7KB-73gg)**
 
 ## 🚀 Project Overview
 
