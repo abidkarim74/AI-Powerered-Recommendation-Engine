@@ -1,0 +1,65 @@
+# AI Models and Heavy Weights
+backend/llm_models/
+*.gguf
+*.bin
+*.pt
+*.safetensors
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+env/
+venv/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.npm/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Temporary and Local Files
+cookies.txt
+*.log
+*.sqlite3
+*.db
+
+# OS Generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
